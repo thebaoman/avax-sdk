@@ -1,14 +1,14 @@
 {
   "name": "@pangolindex/sdk",
   "license": "MIT",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "🛠 An SDK for building applications on top of Pangolin.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pangolindex/sdk",
+  "repository": "https://github.com/thebaoman/avax-sdk",
   "keywords": [
     "pangolin",
     "avalanche"
